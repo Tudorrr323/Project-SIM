@@ -1,0 +1,27 @@
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe.config
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.AssemblyReference.cache
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.SuggestedBindingRedirects.cache
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Form1.resources
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Properties.Resources.resources
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.GenerateResource.cache
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.CoreCompileInputs.cache
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.pdb
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe.config
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.pdb
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.exe
+C:\Users\HP\OneDrive\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\bin\Debug\Interop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\bin\Debug\AxInterop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Interop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\AxInterop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.csproj.ResolveComReference.cache

@@ -1,0 +1,41 @@
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Project SIM.csproj.AssemblyReference.cache
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Project SIM.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Project SIM.csproj.ResolveComReference.cache
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Form1.resources
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Properties.Resources.resources
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Project SIM.csproj.GenerateResource.cache
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Project SIM.csproj.CoreCompileInputs.cache
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.exe
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\obj\Debug\Counter Strike Nexon Zombies 2D.pdb
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe.config
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.exe
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Counter Strike Nexon Zombies 2D.pdb
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tudor\Desktop\Counter Strike Nexon Zombies 2D\bin\Debug\AxInterop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.exe.config
+D:\CodeBlocks Aplicatii\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\CodeBlocks Aplicatii\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\CodeBlocks Aplicatii\Project SIM\bin\Debug\Interop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Project SIM\bin\Debug\AxInterop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Project SIM.csproj.AssemblyReference.cache
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Interop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\AxInterop.WMPLib.dll
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Project SIM.csproj.ResolveComReference.cache
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Form1.resources
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Properties.Resources.resources
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Project SIM.csproj.GenerateResource.cache
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Project SIM.csproj.CoreCompileInputs.cache
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\CodeBlocks Aplicatii\Project SIM\obj\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\VS CODE Apps\Project SIM\obj\Debug\Project SIM.csproj.AssemblyReference.cache
+D:\VS CODE Apps\Project SIM\obj\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\VS CODE Apps\Project SIM\obj\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\VS CODE Apps\Project SIM\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Form1.resources
+D:\VS CODE Apps\Project SIM\obj\Debug\Counter_Strike_Nexon_Zombies_2D.Properties.Resources.resources
+D:\VS CODE Apps\Project SIM\obj\Debug\Project SIM.csproj.GenerateResource.cache
+D:\VS CODE Apps\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.exe.config
+D:\VS CODE Apps\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.exe
+D:\VS CODE Apps\Project SIM\bin\Debug\Counter Strike Nexon Zombies 2D.pdb
+D:\VS CODE Apps\Project SIM\obj\Debug\Project SIM.csproj.CoreCompileInputs.cache
